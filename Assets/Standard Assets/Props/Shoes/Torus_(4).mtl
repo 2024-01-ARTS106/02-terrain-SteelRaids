@@ -1,0 +1,5 @@
+newmtl snow_albedo
+map_Kd snow_albedo.tif
+Kd 1 1 1
+d 1
+
